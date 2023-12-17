@@ -1,8 +1,12 @@
-# React + Vite
+An efficient e-commerce app using React, Vite, CSS media queries for responsiveness, and Context API for state management. Lightning-fast performance, sleek UI/UX, and seamless cross-device compatibility.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Vite-Powered Performance
+Responsive Design with CSS Media Queries
+Context API State Management
+Intuitive User Interface
+Tech: React, Vite, CSS (Media Queries), Context API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Demo view :  https://sarathkalarikkal.github.io/React-E-commerce-App-with-Vite/kids
