@@ -9,4 +9,4 @@ Intuitive User Interface
 Tech: React, Vite, CSS (Media Queries), Context API
 
 
-Demo view :  https://sarathkalarikkal.github.io/React-E-commerce-App-with-Vite/kids
+Demo view :  https://sarathkalarikkal.github.io/React-E-commerce-App-with-Vite/
